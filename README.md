@@ -149,6 +149,7 @@ This starter pack is designed to accelerate the development of modern web applic
 ├── tailwind.config.js          # Tailwind CSS configuration
 └── tsconfig.json               # TypeScript configuration
 
+```
 
 ### **Neon**
 
@@ -314,4 +315,7 @@ This starter pack is designed to accelerate the development of modern web applic
 4. Copy your **Admin Secret**.
 
 ---
+
+```
+
 ```
