@@ -312,7 +312,3 @@ This starter pack is designed to accelerate the development of modern web applic
 ![Hasura](https://raw.githubusercontent.com/CijeTheCreator/NeonDB-Ultimate-Starter-Kit/main/Images/Hasura4Hasura.png)
 
 4. Copy your **Admin Secret**.
-
-```
-
-```
