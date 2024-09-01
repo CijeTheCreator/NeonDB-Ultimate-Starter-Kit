@@ -1,4 +1,4 @@
-# Ultimate Starter Pack
+# NEONDB-NextJS-Typescript UltimateStarter Pack
 
 ## Overview
 
