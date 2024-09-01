@@ -154,7 +154,7 @@ This starter pack is designed to accelerate the development of modern web applic
 
 ![Neon](https://raw.githubusercontent.com/CijeTheCreator/NeonDB-Ultimate-Starter-Kit/main/Images/NEON1NEON.png)
 
-1. Head over to Neon to sign up for a free account.
+1. Head over to [Neon](https://neon.tech/) to sign up for a free account.
 
 ---
 
@@ -195,7 +195,7 @@ This starter pack is designed to accelerate the development of modern web applic
 
 ![Auth0](https://raw.githubusercontent.com/CijeTheCreator/NeonDB-Ultimate-Starter-Kit/main/Images/AUTH1AUTH0.png)
 
-Head over to Auth0 to sign up.
+Head over to [Auth0](https://auth0.com/api/auth/login?redirectTo=dashboard) to sign up.
 
 ---
 
