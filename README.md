@@ -1,6 +1,3 @@
-Here’s the updated markdown with the image links converted to GitHub image links:
-
-````markdown
 # Ultimate Starter Pack
 
 ## Overview
@@ -35,11 +32,11 @@ This starter pack is designed to accelerate the development of modern web applic
 ### Getting Started
 
 1. **Clone the Repository**:
+
    ```bash
    git clone <repository-url>
    cd <repository-directory>
    ```
-````
 
 2. **Install Dependencies**:
 
@@ -313,8 +310,6 @@ This starter pack is designed to accelerate the development of modern web applic
 ![Hasura](https://raw.githubusercontent.com/CijeTheCreator/NeonDB-Ultimate-Starter-Kit/main/Images/Hasura4Hasura.png)
 
 4. Copy your **Admin Secret**.
-
----
 
 ```
 
