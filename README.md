@@ -34,8 +34,8 @@ This starter pack is designed to accelerate the development of modern web applic
 1. **Clone the Repository**:
 
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/CijeTheCreator/NeonDB-Ultimate-Starter-Kit.git
+   cd NeonDB-Ultimate-Starter-Kit
    ```
 
 2. **Install Dependencies**:
