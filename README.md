@@ -195,49 +195,49 @@ This starter pack is designed to accelerate the development of modern web applic
 
 ![Auth0](https://raw.githubusercontent.com/CijeTheCreator/NeonDB-Ultimate-Starter-Kit/main/Images/AUTH1AUTH0.png)
 
-1. Head over to Auth0 to sign up.
+Head over to Auth0 to sign up.
 
 ---
 
 ![Auth0](https://raw.githubusercontent.com/CijeTheCreator/NeonDB-Ultimate-Starter-Kit/main/Images/AUTH2AUTH0.png)
 
-2. Click on **I have used Auth0 before**.
+1. Click on **I have used Auth0 before**.
 
 ---
 
 ![Auth0](https://raw.githubusercontent.com/CijeTheCreator/NeonDB-Ultimate-Starter-Kit/main/Images/AUTH3AUTH0.png)
 
-3. Click on the **Create Application** button.
+2. Click on the **Create Application** button.
 
 ---
 
 ![Auth0](https://raw.githubusercontent.com/CijeTheCreator/NeonDB-Ultimate-Starter-Kit/main/Images/AUTH4AUTH0.png)
 
-4. Give your application a name.
-5. Click on **Regular Web Applications**.
-6. Click on **Create**.
+3. Give your application a name.
+4. Click on **Regular Web Applications**.
+5. Click on **Create**.
 
 ---
 
 ![Auth0](https://raw.githubusercontent.com/CijeTheCreator/NeonDB-Ultimate-Starter-Kit/main/Images/AUTH5AUTH0.png)
 
-7. Click on **Next.js**.
+6. Click on **Next.js**.
 
 ---
 
 ![Auth0](https://raw.githubusercontent.com/CijeTheCreator/NeonDB-Ultimate-Starter-Kit/main/Images/AUTH6AUTH0.png)
 
-8. Copy the **Domain**.
-9. Copy your **Client ID**.
-10. Copy your **Client Secret**.
+7. Copy the **Domain**.
+8. Copy your **Client ID**.
+9. Copy your **Client Secret**.
 
 ---
 
 ![Auth0](https://raw.githubusercontent.com/CijeTheCreator/NeonDB-Ultimate-Starter-Kit/main/Images/AUTH7AUTH0.png)
 
-11. Set your **Allowed Callback URLs** to `http://localhost:3000/api/auth/callback`.
-12. Set **Logout URLs** to `http://localhost:3000`.
-13. Click on **Save Changes**.
+10. Set your **Allowed Callback URLs** to `http://localhost:3000/api/auth/callback`.
+11. Set **Logout URLs** to `http://localhost:3000`.
+12. Click on **Save Changes**.
 
 ---
 
@@ -245,24 +245,25 @@ This starter pack is designed to accelerate the development of modern web applic
 
 ![GitHub](https://raw.githubusercontent.com/CijeTheCreator/NeonDB-Ultimate-Starter-Kit/main/Images/GH1GH.png)
 
-1. Head over to your [GitHub Settings](https://github.com/settings/tokens).
-2. Click on **Tokens (classic)**.
-3. Click on **Generate new token**.
-4. Select **Generate new token (classic)**.
+Head over to your [GitHub Settings](https://github.com/settings/tokens).
+
+1. Click on **Tokens (classic)**.
+2. Click on **Generate new token**.
+3. Select **Generate new token (classic)**.
 
 ---
 
 ![GitHub](https://raw.githubusercontent.com/CijeTheCreator/NeonDB-Ultimate-Starter-Kit/main/Images/GH2GH.png)
 
-5. Give your token a name.
-6. Set an expiration date (a short expiration is fine since the token will be used just once by the initialization script).
-7. Tick **repo** to authorize the initialization script to create your repo and populate the required Action Secrets.
+4. Give your token a name.
+5. Set an expiration date (a short expiration is fine since the token will be used just once by the initialization script).
+6. Tick **repo** to authorize the initialization script to create your repo and populate the required Action Secrets.
 
 ---
 
 ![GitHub](https://raw.githubusercontent.com/CijeTheCreator/NeonDB-Ultimate-Starter-Kit/main/Images/GH3GH.png)
 
-8. Click on **Generate token** and copy your token.
+7. Click on **Generate token** and copy your token.
 
 ---
 
@@ -270,22 +271,22 @@ This starter pack is designed to accelerate the development of modern web applic
 
 ![Vercel](https://raw.githubusercontent.com/CijeTheCreator/NeonDB-Ultimate-Starter-Kit/main/Images/VERCEL1VERCEL.png)
 
-1. Head to [Vercel](https://vercel.com).
+Head to [Vercel](https://vercel.com).
 
 ---
 
 ![Vercel](https://raw.githubusercontent.com/CijeTheCreator/NeonDB-Ultimate-Starter-Kit/main/Images/VERCEL2VERCEL.png)
 
-2. Click on your avatar.
-3. Click on **Account Settings**.
+1. Click on your avatar.
+2. Click on **Account Settings**.
 
 ---
 
 ![Vercel](https://raw.githubusercontent.com/CijeTheCreator/NeonDB-Ultimate-Starter-Kit/main/Images/VERCEL3VERCEL.png)
 
-4. Click on **Tokens** in the left menu bar.
-5. Click on **Create**, give your token a name.
-6. Copy your token.
+3. Click on **Tokens** in the left menu bar.
+4. Click on **Create**, give your token a name.
+5. Copy your token.
 
 ---
 
@@ -293,22 +294,22 @@ This starter pack is designed to accelerate the development of modern web applic
 
 ![Hasura](https://raw.githubusercontent.com/CijeTheCreator/NeonDB-Ultimate-Starter-Kit/main/Images/Hasura1Hasura.png)
 
-1. Head over to [Hasura](https://hasura.io) and create a new account.
+Head over to [Hasura](https://hasura.io) and create a new account.
 
 ---
 
 ![Hasura](https://raw.githubusercontent.com/CijeTheCreator/NeonDB-Ultimate-Starter-Kit/main/Images/Hasura2Hasura.png)
 
-2. Click on **Create a project**.
+1. Click on **Create a project**.
 
 ---
 
 ![Hasura](https://raw.githubusercontent.com/CijeTheCreator/NeonDB-Ultimate-Starter-Kit/main/Images/Hasura3Hasura.png)
 
-3. Click on **Create Free Project**.
+2. Click on **Create Free Project**.
 
 ---
 
 ![Hasura](https://raw.githubusercontent.com/CijeTheCreator/NeonDB-Ultimate-Starter-Kit/main/Images/Hasura4Hasura.png)
 
-4. Copy your **Admin Secret**.
+3. Copy your **Admin Secret**.
