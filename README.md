@@ -4,7 +4,7 @@
 
 ## Overview
 
-This starter pack is designed to accelerate the development of modern web applications by providing a robust foundation. It includes a comprehensive setup with Next.js, TypeScript, Hasura, Auth0, Express, Husky, Jest, Prettier, and more. The pack is pre-configured with industry-standard tools and workflows, ensuring a smooth development experience, and what truly sets it apart is how it enables you to get an industry-standard CI/CD pipeline, leveraging NEONDB’s database branching, up and running in just 5 minutes.
+This starter pack is designed to accelerate the development of modern web applications by providing a robust foundation. It includes a comprehensive setup with Next.js, TypeScript, Hasura, Auth0, Express, Husky, Jest, Prettier, and more. The pack is pre-configured with industry-standard tools and workflows, ensuring a smooth development experience, and what truly sets it apart is how it enables you to **get an industry-standard CI/CD pipeline, leveraging NEONDB’s database branching, up and running in just 5 minutes.**
 
 ---
 
