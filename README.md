@@ -1,3 +1,5 @@
+![Cover](https://raw.githubusercontent.com/CijeTheCreator/NeonDB-Ultimate-Starter-Kit/main/Images/coverphoto.png)
+
 # NEONDB-NextJS-Typescript UltimateStarter Pack
 
 ## Overview
