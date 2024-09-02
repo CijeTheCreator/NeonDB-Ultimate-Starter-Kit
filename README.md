@@ -24,12 +24,12 @@ This starter pack is designed to accelerate the development of modern web applic
 ### Prerequisites
 
 - **Node.js 16+** and **npm**
-- **Docker and Docker Compose** (Optional for Local Hasura Development)
-- **GitHub Token**: A GitHub token with repository access.
-- **Vercel Token**: A Vercel token for deployment.
-- **NeonDB Credentials**: API key, connection string, and pooled connection string.
-- **Auth0 Credentials**: Domain, Client ID, and Client Secret.
-- **Hasura Credentials**: Admin Secret.
+- [Docker and Docker Compose](https://docs.docker.com/get-started/introduction/) (Optional for Local Hasura Development)
+- [Github Token](https://github.com/CijeTheCreator/NeonDB-Ultimate-Starter-Kit/blob/main/README.md#github): A GitHub token with repository access.
+- [Vercel Token](https://github.com/CijeTheCreator/NeonDB-Ultimate-Starter-Kit/blob/main/README.md#vercel): A Vercel token for deployment.
+- [Neon Credentials](https://github.com/CijeTheCreator/NeonDB-Ultimate-Starter-Kit/blob/main/README.md#neon): API key, connection string, and pooled connection string.
+- [Auth0 Credentials](https://github.com/CijeTheCreator/NeonDB-Ultimate-Starter-Kit/blob/main/README.md#auth0): Domain, Client ID, and Client Secret.
+- [Hasura Credentials](https://github.com/CijeTheCreator/NeonDB-Ultimate-Starter-Kit/blob/main/README.md#hasura): Admin Secret.
   
 The [Getting Credentials](https://github.com/CijeTheCreator/NeonDB-Ultimate-Starter-Kit/blob/main/README.md#getting-credentials) section provides detailed instructions on how to obtain all the necessary credentials.
 
