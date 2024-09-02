@@ -6,7 +6,7 @@
     "dev_": "next dev",
     "watch:server": "nodemon ./server/app.ts",
     "hasura": "docker compose up --build",
-    "dev": "concurrently --kill-others \"npm run dev_\" \"npm run watch:server\" \"npm run hasura\"",
+    "dev": "concurrently --kill-others \"npm run dev_\" \"npm run watch:server\"",
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
