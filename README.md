@@ -28,8 +28,8 @@ This starter pack is designed to accelerate the development of modern web applic
 - **NeonDB Credentials**: API key, connection string, and pooled connection string.
 - **Auth0 Credentials**: Domain, Client ID, and Client Secret.
 - **Hasura Credentials**: Admin Secret.
-- 
-  The 'Getting Credentials' section provides detailed instructions on how to obtain all the necessary credentials.
+  
+The 'Getting Credentials' section provides detailed instructions on how to obtain all the necessary credentials.
 
 ### Getting Started
 
