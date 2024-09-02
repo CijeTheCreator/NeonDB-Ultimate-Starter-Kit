@@ -22,6 +22,7 @@ This starter pack is designed to accelerate the development of modern web applic
 ### Prerequisites
 
 - **Node.js 16+** and **npm**
+- **Docker and Docker Compose** (Optional for Local Hasura Development)
 - **GitHub Token**: A GitHub token with repository access.
 - **Vercel Token**: A Vercel token for deployment.
 - **NeonDB Credentials**: API key, connection string, and pooled connection string.
