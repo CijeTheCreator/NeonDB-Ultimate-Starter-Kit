@@ -71,6 +71,13 @@ The 'Getting Credentials' section provides detailed instructions on how to obtai
    - Next.js frontend: [http://localhost:3000](http://localhost:3000)
    - Express.js backend: [http://localhost:4000](http://localhost:4000)
    - Hasura Docker container: [http://localhost:8080](http://localhost:8080)
+  
+5. **Start Hasura Container**(Optional):
+   ```bash
+   npm run hasura
+   ```
+   This command will initiate the Hasura Docker container. You can access the services at the following address:
+   - Hasura Docker container: [http://localhost:8080](http://localhost:8080)
 
 ### CI/CD Workflow
 
